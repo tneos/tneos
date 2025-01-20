@@ -6,7 +6,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a highly motivated, self-starting developer focussing on web applications and services. Over the last few years, I have learnt to code in my spare time whilst working in a different industry. My passion and interest in the subject has motivated me to work through the challenges and learn new skills.
 
