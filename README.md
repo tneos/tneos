@@ -1,7 +1,7 @@
 ## Hi there I'm Thomas Neos 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/muppets-computers-nPxVvyTWo1aIU" width="100"/>
 </div>
 
 Here are some ideas to get you started:
