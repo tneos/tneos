@@ -1,7 +1,7 @@
 ## Hi there I'm Thomas Neos 👋
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlndTVxNXkwaDY5MjUybThhYTFtZjlxZXlmNmlsdGszN2V4eWo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPxVvyTWo1aIU/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlndTVxNXkwaDY5MjUybThhYTFtZjlxZXlmNmlsdGszN2V4eWo2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPxVvyTWo1aIU/giphy.gif" width="200"/>
 </div>
 
 Here are some ideas to get you started:
