@@ -29,6 +29,5 @@ I am a highly motivated, self-starting developer focussing on web applications a
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tneos)](https://git.io/streak-stats)
+
 
