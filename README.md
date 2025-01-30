@@ -30,5 +30,5 @@ I am a highly motivated, self-starting developer focussing on web applications a
 </div>
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tneos" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tneos)](https://git.io/streak-stats)
 
